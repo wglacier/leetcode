@@ -14,3 +14,5 @@
 | [003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/Longest-Substring-Without-Repeating-Characters/) | [C++](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) |
 | [004. Median of Two Sorted Arrays](https://leetcode.com/problems/Median-of-Two-Sorted-Arrays/) | [C++](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |
 | [005. Longest Palindromic Substring](https://leetcode.com/problems/Longest-Palindromic-Substring/) | [C++](./solutions/5.%20Longest%20Palindromic%20Substring.md) |
+| [006. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++,C#](./solutions/6.%20ZigZag%20Conversion.md) |
+| [007. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./solutions/7.%20Reverse%20Integer.md) |
