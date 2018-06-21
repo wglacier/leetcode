@@ -16,3 +16,5 @@
 | [005. Longest Palindromic Substring](https://leetcode.com/problems/Longest-Palindromic-Substring/) | [C++](./solutions/5.%20Longest%20Palindromic%20Substring.md) |
 | [006. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++,C#](./solutions/6.%20ZigZag%20Conversion.md) |
 | [007. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./solutions/7.%20Reverse%20Integer.md) |
+| [008. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./solutions/8.%20String%20to%20Integer%20(atoi).md) |
+| [009. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./solutions/9.%20Palindrome%20Number.md) |
