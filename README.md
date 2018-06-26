@@ -18,3 +18,7 @@
 | [007. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./solutions/7.%20Reverse%20Integer.md) |
 | [008. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./solutions/8.%20String%20to%20Integer%20(atoi).md) |
 | [009. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./solutions/9.%20Palindrome%20Number.md) |
+| [010. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./solutions/10.%20Regular%20Expression%20Matching.md) |
+| [011*. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./solutions/11.%20Container%20With%20Most%20Water.md) |
+| [012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](./solutions/11.%20Integer%20to%20Roman.md) |
+| [013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](./solutions/12.%20Roman%20to%20Integer.md) |
