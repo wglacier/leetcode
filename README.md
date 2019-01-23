@@ -40,3 +40,10 @@
 | [0029. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [source](./solutions/0029.%20Divide%20Two%20Integers.md) |
 | [0030. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [source](./solutions/0030.%20Substring%20with%20Concatenation%20of%20All%20Words.md) |
 | [0031. Next Permutation](https://leetcode.com/problems/next-permutation/) | [source](./solutions/0031.%20Next%20Permutation.md) |
+| [0036. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [source](./solutions/0036.%20Valid%20Sudoku.md) |
+| [0037. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [source](./solutions/0037.%20Sudoku%20Solver.md) |
+| [0038. Count and Say](https://leetcode.com/problems/count-and-say/) | [source](./solutions/0038.%20Count%20and%20Say.md) |
+| [0042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [source](./solutions/0042.%20Trapping%20Rain%20Water.md) |
+| [0045. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [source](./solutions/0045.%20Jump%20Game%20II.md) |
+| [0054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [source](./solutions/0054.%20Spiral%20Matrix.md) |
+| [0055. Jump Game](https://leetcode.com/problems/jump-game/) | [source](./solutions/0055.%20Jump%20Game.md) |
